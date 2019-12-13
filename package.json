@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "npm": "^6.11.3",
+    "npm": "^6.13.4",
     "slackbots": "^1.2.0"
   }
 }
